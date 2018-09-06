@@ -3,9 +3,11 @@ package h04;
 import java.awt.*;
 import java.applet.*;
 
-public class Opdracht4 extends Applet {
+public class H4Opdracht4 extends Applet {
+
 
     public void init() {
+
     }
 
     public void paint(Graphics g) {
@@ -20,8 +22,8 @@ public class Opdracht4 extends Applet {
         g.drawString("80KG", 5, 100);
         g.drawString("100KG", 5, 50);
         g.setColor(Color.yellow);
-        g.drawRect(60, 195, 50, 105);
-        g.fillRect(60, 195, 50, 105);
+        g.drawRect(60, 200, 50, 105);
+        g.fillRect(60, 200, 50, 105);
         g.setColor(Color.blue);
         g.drawRect(110,95, 50, 205);
         g.fillRect(110, 95, 50 , 205);

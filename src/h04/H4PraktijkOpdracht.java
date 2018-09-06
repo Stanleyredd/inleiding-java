@@ -3,7 +3,7 @@ package h04;
 import java.awt.*;
 import java.applet.*;
 
-public class PraktijkOpdracht extends Applet {
+public class H4PraktijkOpdracht extends Applet {
 
     Color oranje;
     Color roze;

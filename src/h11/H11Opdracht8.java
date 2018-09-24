@@ -4,15 +4,16 @@ import java.awt.*;
 import java.applet.*;
 
 
-public class H11Opdracht6 extends Applet {
+public class H11Opdracht8 extends Applet {
     int teller;
     int x;
     int y;
     int w;
     int h;
     public void init() {
-        x = 100;
-        y = 100;
+        setSize(1000,1000);
+        x = 500;
+        y = 500;
         w = 0;
         h = 0;
 
@@ -21,7 +22,7 @@ public class H11Opdracht6 extends Applet {
     public void paint(Graphics g) {
 
 
-        for(teller = 0; teller < 5; teller++) {
+        for(teller = 0; teller < 100; teller++) {
             x -= 5;
             y -= 5;
             w += 10;
@@ -34,5 +35,3 @@ public class H11Opdracht6 extends Applet {
         }
     }
 }
-
-

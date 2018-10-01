@@ -19,8 +19,8 @@ public class H10Opdracht4 extends Applet {
         tekstvak = new TextField("", 20);
         label = new Label("Type het dagnummer en druk op enter");
         tekstvak.addActionListener( new TekstvakListener() );
-        tekst = "";
-        tekst2 = "";
+        //tekst = "";
+        //tekst2 = "";
         tekstvak1 = new TextField("", 20);
         tekstvak1.addActionListener(new TekstvakListener());
         add(label);

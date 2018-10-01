@@ -6,9 +6,8 @@ import java.applet.*;
 
 public class H6Opdracht2 extends Applet {
     int Seconden, Uur, Dag, Jaar;
-    double Antwoord1;
-    double Antwoord2;
-    double Antwoord3;
+    double Antwoord1, Antwoord2, Antwoord3;
+
 
 
     public void init() {

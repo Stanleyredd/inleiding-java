@@ -11,14 +11,14 @@ public class H11OpdrachtPraktijk extends Applet {
     TextField tekstvak;
     String s, text;
     Button knop;
-    int num1;
+    int nummer;
 
 
     public void init() {
 
         tekstvak = new TextField("", 20);
 
-        knop = new Button("ok");
+        knop = new Button("OK");
 
         knop.addActionListener(new KnopListener());
 
@@ -34,11 +34,11 @@ public class H11OpdrachtPraktijk extends Applet {
 
         int x = 0;
 
-        for (int count = 1; count < 11; count++) {
+        for (int teller = 1; teller < 11; teller++) {
 
-            x = num1 * count;
+            x = nummer * teller;
 
-            g.drawString("" + x, 20, 20 + count * 20);
+            g.drawString("" + x, 20, 20 + teller * 20);
 
         }
 
@@ -51,7 +51,7 @@ public class H11OpdrachtPraktijk extends Applet {
     class KnopListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
 
-            num1 = Integer.parseInt(tekstvak.getText());
+            nummer = Integer.parseInt(tekstvak.getText());
 
             repaint();
         }

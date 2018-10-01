@@ -123,5 +123,3 @@ public class H11Opdracht9 extends Applet {
         }
     }
 }
-
-

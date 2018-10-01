@@ -40,6 +40,8 @@ public class H10Opdracht2 extends Applet {
                         invoer = Integer.parseInt(tekst);
                         if (invoer > hoogst) {
                                 hoogst = invoer;
+
+
                         }
                         repaint();
 

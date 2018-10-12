@@ -3,7 +3,7 @@ package test;
 import java.applet.Applet;
 import java.awt.*;
 import java.util.Arrays;
-import java.util.Scanner;
+
 
 
 public class test1 extends Applet {

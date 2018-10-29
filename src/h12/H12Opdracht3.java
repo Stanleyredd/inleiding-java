@@ -1,63 +1,66 @@
 package h12;
 
 
-
 import java.awt.*;
 import java.applet.*;
-import java.awt.event.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.sql.Array;
-import java.util.*;
+import java.util.Arrays;
+
 
 public class H12Opdracht3 extends Applet {
     TextField[] tekstvak;
     Button knop;
     String s;
-    String[] namen;
-
-
-    String[] getallen = {};
-
+    int[] getallen;
 
 
     public void init() {
         tekstvak = new TextField[5];
-        knop = new Button("OK");
+        knop = new Button("Sorteer");
         knop.addActionListener(new KnopListener());
-        Arrays.sort(getallen);
+        getallen = new int[5];
 
 
-
-
-        for (int i = 0; i < 5; i++) {
-
-            tekstvak[i] = new TextField();
+        for (int i = 0; i < tekstvak.length; i++) {
+            tekstvak[i] = new TextField("", 5);
             add(tekstvak[i]);
             add(knop);
-
-
         }
 
-    }
-
-    public void paint(Graphics g) {
 
     }
+
 
     class KnopListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            s = tekstvak[0].getText();
-            Integer.parseInt(s);
-
-            for (int i = 0; i <5; i++) {
-                tekstvak[i].setText(getallen[i] + "");
-            }
-
-
+            for (int i = 0; i < getallen.length; i++) {
+                getallen[i] = Integer.parseInt(tekstvak[i].getText());
 
             }
+            Arrays.sort(getallen);
+
+            for (int i = 0; i < getallen.length; i++) {
+               tekstvak[i].setText("" + getallen[i]);
 
             }
+
         }
+
+
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
 

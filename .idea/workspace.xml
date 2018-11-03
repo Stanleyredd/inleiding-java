@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7209bee6-0ec3-49dc-ad1e-c91a1d0280cf" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/Challenge/Opdracht4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/H12Opdracht4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h11/H11OpdrachtPraktijk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h11/H11OpdrachtPraktijk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h12/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test1.java" beforeDir="false" />
+>>>>>>> eerste wijziging
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,44 +37,71 @@
     <session id="-911444978">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="72" />
+=======
+          <entry key="project.closed" value="71" />
+>>>>>>> eerste wijziging
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.10" value="8" />
           <entry key="project.open.time.11" value="9" />
           <entry key="project.open.time.12" value="9" />
           <entry key="project.open.time.13" value="2" />
+<<<<<<< HEAD
           <entry key="project.open.time.14" value="4" />
           <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.2" value="1" />
+=======
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.16" value="3" />
+>>>>>>> eerste wijziging
           <entry key="project.open.time.5" value="9" />
           <entry key="project.open.time.6" value="8" />
           <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="7" />
           <entry key="project.open.time.9" value="5" />
+<<<<<<< HEAD
           <entry key="project.opened" value="77" />
+=======
+          <entry key="project.opened" value="75" />
+>>>>>>> eerste wijziging
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
+<<<<<<< HEAD
           <entry key="java" value="598" />
+=======
+          <entry key="java" value="584" />
+>>>>>>> eerste wijziging
           <entry key="test" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="JAVA" value="598" />
+=======
+          <entry key="JAVA" value="584" />
+>>>>>>> eerste wijziging
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="java" value="33027" />
           <entry key="txt" value="141" />
+=======
+          <entry key="java" value="31895" />
+          <entry key="txt" value="139" />
+>>>>>>> eerste wijziging
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="JAVA" value="33026" />
           <entry key="PLAIN_TEXT" value="142" />
         </counts>
@@ -74,12 +109,75 @@
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
           <entry key="git.branch.checkout.local" value="1" />
+=======
+          <entry key="JAVA" value="31894" />
+          <entry key="PLAIN_TEXT" value="140" />
+>>>>>>> eerste wijziging
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/h11/H11OpdrachtPraktijk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h12/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> eerste wijziging
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,15 +189,23 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="nieuweBranch" />
       </map>
     </option>
+=======
+>>>>>>> eerste wijziging
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/h06/H6OpdrachtPraktijk.java" />
+        <option value="$PROJECT_DIR$/src/h07/test.java" />
+>>>>>>> eerste wijziging
         <option value="$PROJECT_DIR$/src/h07/test1.java" />
         <option value="$PROJECT_DIR$/src/h07/H7Opdracht1.java" />
         <option value="$PROJECT_DIR$/src/h08/resetListwner.java" />
@@ -146,11 +252,17 @@
         <option value="$PROJECT_DIR$/src/h12/TestOpdracht3.java" />
         <option value="$PROJECT_DIR$/src/h12/H12Opdracht3Test.java" />
         <option value="$PROJECT_DIR$/src/h12/H12Opdracht3.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/h11/H11OpdrachtPraktijk.java" />
         <option value="$PROJECT_DIR$/src/h12/newtest.java" />
         <option value="$PROJECT_DIR$/src/h12/test.java" />
         <option value="$PROJECT_DIR$/src/h12/H12Opdracht4.java" />
         <option value="$PROJECT_DIR$/src/h12/H12Opdracht5.java" />
+=======
+        <option value="$PROJECT_DIR$/src/h12/H12Opdracht4.java" />
+        <option value="$PROJECT_DIR$/src/h12/test.java" />
+        <option value="$PROJECT_DIR$/src/h11/H11OpdrachtPraktijk.java" />
+>>>>>>> eerste wijziging
       </list>
     </option>
   </component>
@@ -167,9 +279,14 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="831" />
     <option name="y" value="-12" />
     <option name="width" value="980" />
+=======
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+>>>>>>> eerste wijziging
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -177,8 +294,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+=======
+      <pane id="Scope" />
+>>>>>>> eerste wijziging
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,13 +328,22 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+>>>>>>> eerste wijziging
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541412889837" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541275087485" />
+>>>>>>> eerste wijziging
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -252,42 +382,69 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Applet.H12Opdracht4">
     <configuration name="H12Opdracht2" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h12.H12Opdracht2" />
+=======
+  <component name="RunManager" selected="Unknown.H11OpdrachtPraktijk787650675">
+    <configuration name="H11OpdrachtPraktijk" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.H11OpdrachtPraktijk" />
+>>>>>>> eerste wijziging
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="H12Opdracht3" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h12.H12Opdracht3" />
+=======
+    <configuration name="H12Opdracht1" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H12Opdracht1" />
+>>>>>>> eerste wijziging
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="H12Opdracht4" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h12.H12Opdracht4" />
+=======
+    <configuration name="H12Opdracht2" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h12.H12Opdracht2" />
+>>>>>>> eerste wijziging
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="newtest" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h12.newtest" />
+=======
+    <configuration name="H12Opdracht3" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h12.H12Opdracht3" />
+>>>>>>> eerste wijziging
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="test" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h12.test" />
+=======
+    <configuration name="H12Opdracht4" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h12.H12Opdracht4" />
+>>>>>>> eerste wijziging
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <list>
       <item itemvalue="Applet.H12Opdracht2" />
       <item itemvalue="Applet.H12Opdracht3" />
@@ -302,6 +459,8 @@
         <item itemvalue="Applet.newtest" />
       </list>
     </recent_temporary>
+=======
+>>>>>>> eerste wijziging
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -386,9 +545,13 @@
       <workItem from="1540840340986" duration="276000" />
       <workItem from="1541184629226" duration="646000" />
       <workItem from="1541274865616" duration="254000" />
+<<<<<<< HEAD
       <workItem from="1541275748812" duration="590000" />
       <workItem from="1541278179412" duration="175000" />
       <workItem from="1541404668644" duration="8370000" />
+=======
+      <workItem from="1541275748812" duration="24000" />
+>>>>>>> eerste wijziging
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1536051474551</created>
@@ -586,6 +749,7 @@
       <option name="project" value="LOCAL" />
       <updated>1540805407693</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00029" summary="Opdracht 4 done.">
       <created>1541412614448</created>
       <option name="number" value="00029" />
@@ -617,25 +781,52 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36040267" />
+=======
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="294704000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36308724" />
+>>>>>>> eerste wijziging
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4852349" visible="true" weight="0.16595745" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4966443" weight="0.38014185" />
+=======
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4852349" visible="true" weight="0.25106382" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4966443" weight="0.38163558" />
+>>>>>>> eerste wijziging
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5147651" side_tool="true" weight="0.2539007" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.46983185" weight="0.241033" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5147651" side_tool="true" weight="0.2539007" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.46983185" weight="0.24255319" />
+>>>>>>> eerste wijziging
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -702,14 +893,29 @@
     <MESSAGE value="Opdracht H4.1" />
     <MESSAGE value="Opdrachten" />
     <MESSAGE value="Opdracht 3 done." />
+<<<<<<< HEAD
     <MESSAGE value="Opdracht 4 done." />
     <option name="LAST_COMMIT_MESSAGE" value="Opdracht 4 done." />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 3 done." />
+>>>>>>> eerste wijziging
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/h11/H11Opdracht1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/test1.java" />
+>>>>>>> eerste wijziging
     <entry file="file://$PROJECT_DIR$/src/h11/test.java" />
     <entry file="file://$PROJECT_DIR$/src/h11/H12Opdracht3.java" />
     <entry file="file://$PROJECT_DIR$/src/h04/H4Opdracht2.java">
@@ -959,6 +1165,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/test1.java" />
+<<<<<<< HEAD
+=======
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> eerste wijziging
     <entry file="file://$PROJECT_DIR$/src/h12/TestOpdracht3.java" />
     <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht3Test.java" />
     <entry file="file://$PROJECT_DIR$/src/h11/H11Opdracht7.java">
@@ -970,23 +1186,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht3.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="272">
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="340">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="51" />
+>>>>>>> eerste wijziging
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht2.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="68">
+=======
+        <state relative-caret-position="102">
+>>>>>>> eerste wijziging
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht1.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="306">
           <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
         </state>
@@ -1013,10 +1239,22 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="323">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+>>>>>>> eerste wijziging
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h12/test.java">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht4.java">
@@ -1036,6 +1274,18 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/H11OpdrachtPraktijk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+>>>>>>> eerste wijziging
         </state>
       </provider>
     </entry>

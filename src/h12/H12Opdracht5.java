@@ -1,55 +1,57 @@
 package h12;
 
-import java.applet.Applet;
-import java.awt.Button;
-import java.awt.Graphics;
-import java.awt.TextField;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
+import java.awt.*;
+import java.applet.*;
+import java.awt.event.*;
 
 public class H12Opdracht5 extends Applet {
-
-    int[] numbers = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -43, 1984, 235240, -3000, 22, 2016};
-    TextField nummers = new TextField("", 5);
-    Button ok = new Button("OK");
-    String string = "";
-    boolean vind = false;
-    int index = -1;
+    double[] salaris = {100.0, 200.0, 300.0, 400.0,100.0, 500.0};
+    double gezocht;
+    TextField tekstvak;
+    Button knop;
+    int hoogte = 50;
+    int gevondenID;
+    boolean gevonden;
 
     public void init() {
-        setSize(400, 400);
-        add(nummers);
-        nummers.addActionListener(new InputListener());
-        add(ok);
-        ok.addActionListener(new InputListener());
+        tekstvak = new TextField("", 21);
+        knop = new Button("OK");
+        knop.addActionListener(new KnopListener());
+        add(tekstvak);
+        add(knop);
     }
-
     public void paint(Graphics g) {
-        int x = getWidth();
-        int y = getHeight();
 
-        g.drawString(""+ string, x/2-100, y/2);
+
+        if (gevonden == true) {
+            g.drawString("Het getal is gevonden. " , 96, 40);
+            g.drawString("Index "+ gevondenID, 96,60);
+
+        } else if (gevonden == false) {
+            g.drawString("Het getal is niet gevonden", 96, 40);
+        }
+        hoogte = 50;
     }
 
-    class InputListener implements ActionListener {
+    class KnopListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            int search = Integer.parseInt(nummers.getText());
-            for (int i = 0; i < numbers.length && vind == false; i++) {
-                index++;
-                if (numbers[i] == search) {
-                    vind = true;
+            gezocht = Double.parseDouble(tekstvak.getText());
+            gevonden = false;
+            int teller = 0;
+            while (teller < salaris.length) {
+                if (salaris[teller] == gezocht) {
+                    gevonden = true;
+                    gevondenID = teller++;
                 }
+                teller++;
             }
-            if (vind == true) {
-                string = "De waarde is gevonden onder de index "+ index +".";
-            } else {
-                string = "De waarde is niet gevonden.";
-            }
-            index = -1;
-            nummers.setText("");
-            vind = false;
             repaint();
         }
     }
-
 }
+
+
+
+
+
+

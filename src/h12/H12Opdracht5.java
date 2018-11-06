@@ -5,7 +5,7 @@ import java.applet.*;
 import java.awt.event.*;
 
 public class H12Opdracht5 extends Applet {
-    double[] salaris = {100.0, 200.0, 300.0, 400.0,100.0, 500.0};
+    double[] salaris = {100.0, 100.0,400.0, 300.0,  500.0,200.0};
     double gezocht;
     TextField tekstvak;
     Button knop;
@@ -20,12 +20,16 @@ public class H12Opdracht5 extends Applet {
         add(tekstvak);
         add(knop);
     }
+
     public void paint(Graphics g) {
-
-
+        int teller = 0;
+        while (teller < salaris.length) {
+            g.drawString("" + salaris[teller], 10, hoogte);
+            teller++;
+            hoogte += 30;
+        }
         if (gevonden == true) {
-            g.drawString("Het getal is gevonden. " , 96, 40);
-            g.drawString("Index "+ gevondenID, 96,60);
+            g.drawString("het getal is gevonden op index : " + gevondenID, 96, 40);
 
         } else if (gevonden == false) {
             g.drawString("Het getal is niet gevonden", 96, 40);
@@ -49,9 +53,6 @@ public class H12Opdracht5 extends Applet {
         }
     }
 }
-
-
-
 
 
 

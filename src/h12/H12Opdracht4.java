@@ -5,7 +5,7 @@ import java.applet.*;
 import java.awt.event.*;
 
 public class H12Opdracht4 extends Applet {
-    double[] salaris = {100.0, 200.0,400.0, 300.0,  500.0,100.0};
+    double[] salaris = {100.0, 200.0, 300.0, 400.0, 500.0,};
     double gezocht;
     TextField tekstvak;
     Button knop;

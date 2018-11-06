@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7209bee6-0ec3-49dc-ad1e-c91a1d0280cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/H12Opdracht6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h12/H12Opdracht4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/H12Opdracht4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h12/H12Opdracht5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/H12Opdracht5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +18,7 @@
         <counts>
           <entry key="class" value="4" />
           <entry key="iml" value="3" />
-          <entry key="java" value="21" />
+          <entry key="java" value="22" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
@@ -28,7 +26,7 @@
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="21" />
+          <entry key="JAVA" value="22" />
           <entry key="XML" value="6" />
         </counts>
       </usages-collector>
@@ -42,13 +40,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="170" />
+          <entry key="java" value="372" />
+          <entry key="txt" value="2" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="170" />
+          <entry key="JAVA" value="372" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -73,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="68">
+              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,8 +88,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
-              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+            <state relative-caret-position="444">
+              <caret line="57" lean-forward="true" selection-end-line="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/h08/resetListwner.java" />
         <option value="$PROJECT_DIR$/src/h02/H2Opdracht2.java" />
         <option value="$PROJECT_DIR$/src/h05/H5Opdracht2.java" />
         <option value="$PROJECT_DIR$/src/h08/H8Opdracht3.java" />
@@ -172,6 +183,7 @@
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
         <option value="$PROJECT_DIR$/src/h12/H12Opdracht4.java" />
         <option value="$PROJECT_DIR$/src/h12/H12Opdracht5.java" />
+        <option value="$PROJECT_DIR$/src/h12/H12Opdracht6.java" />
       </list>
     </option>
   </component>
@@ -228,7 +240,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541488703872" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541491258442" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -247,14 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.H12Opdracht4">
-    <configuration name="H11Opdracht1" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.H11Opdracht1" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Applet.H12Opdracht6">
     <configuration name="H12Opdracht1" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="H12Opdracht1" />
       <module name="inleiding-java" />
@@ -283,20 +288,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="H12Opdracht6" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h12.H12Opdracht6" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Applet.H12Opdracht4" />
       <item itemvalue="Applet.H12Opdracht5" />
-      <item itemvalue="Applet.H11Opdracht1" />
       <item itemvalue="Applet.H12Opdracht1" />
       <item itemvalue="Applet.H12Opdracht3" />
+      <item itemvalue="Applet.H12Opdracht6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.H12Opdracht6" />
         <item itemvalue="Applet.H12Opdracht4" />
         <item itemvalue="Applet.H12Opdracht5" />
         <item itemvalue="Applet.H12Opdracht3" />
         <item itemvalue="Applet.H12Opdracht1" />
-        <item itemvalue="Applet.H11Opdracht1" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +400,7 @@
       <workItem from="1541404668644" duration="10786000" />
       <workItem from="1541417647518" duration="3027000" />
       <workItem from="1541421031220" duration="2347000" />
-      <workItem from="1541488466969" duration="232000" />
+      <workItem from="1541488466969" duration="2749000" />
     </task>
     <task id="LOCAL-00001" summary="Opdracht 4 done.">
       <created>1541413519876</created>
@@ -411,12 +423,12 @@
       <option name="project" value="LOCAL" />
       <updated>1541420401250</updated>
     </task>
-    <task id="LOCAL-00004" summary="Opdrach H4.1">
-      <created>1536056888060</created>
+    <task id="LOCAL-00004" summary="Opdracht 4,5 done.">
+      <created>1541488735584</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1536056888060</updated>
+      <updated>1541488735584</updated>
     </task>
     <task id="LOCAL-00005" summary="Opdrach H4.2">
       <created>1536061155961</created>
@@ -614,11 +626,11 @@
       <option name="project" value="LOCAL" />
       <updated>1541413157886</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7845000" />
+    <option name="totallyTimeSpent" value="10343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -721,7 +733,8 @@
     <MESSAGE value="Opdrachten" />
     <MESSAGE value="Opdracht 3 done." />
     <MESSAGE value="Opdracht 4 done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 4 done." />
+    <MESSAGE value="Opdracht 4,5 done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 4,5 done." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/h11/H11Opdracht3.java">
@@ -794,20 +807,30 @@
     <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht4$KnopListener.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht5.java">
+    <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        <state relative-caret-position="68">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht4.java">
+    <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="444">
+          <caret line="57" lean-forward="true" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h12/H12Opdracht6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

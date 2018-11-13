@@ -3,7 +3,7 @@ import java.awt.*;
 import java.applet.*;
 
 public class H13Opdracht2 extends Applet {
-    
+
     public void init()
     {
     }

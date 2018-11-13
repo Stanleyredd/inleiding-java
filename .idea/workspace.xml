@@ -173,10 +173,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="810" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="752" />
+    <option name="y" value="-34" />
     <option name="width" value="978" />
-    <option name="height" value="1038" />
+    <option name="height" value="678" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -225,7 +226,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542096142252" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542096747773" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -244,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.test">
+  <component name="RunManager" selected="Applet.H13PraktijkOpdracht">
     <configuration name="H12Opdracht2" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h12.H12Opdracht2" />
       <module name="inleiding-java" />
@@ -289,9 +290,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.H13PraktijkOpdracht" />
         <item itemvalue="Applet.test" />
         <item itemvalue="Applet.H12PraktijkOpdracht" />
-        <item itemvalue="Applet.H13PraktijkOpdracht" />
         <item itemvalue="Applet.H12Opdracht2" />
         <item itemvalue="Applet.H4Opdracht1" />
       </list>
